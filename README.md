@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js route handlers: insufficient error handling. The `bug.js` file shows a route that is vulnerable to errors if an invalid user ID is provided or if a user with the given ID does not exist. The `bugSolution.js` file provides a corrected version with improved error handling.
